@@ -1,6 +1,6 @@
 # The essential tools for Named Entities Recognition
 
-Read more about this project on [Medium]().
+Read more about this project on [Medium](https://towardsdatascience.com/discovering-the-essential-tools-for-named-entities-recognition-8176c94d9747).
 
 ## Introduction
 
