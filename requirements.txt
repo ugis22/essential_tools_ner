@@ -4,5 +4,5 @@ html5lib==1.0.1
 matplotlib==3.0.3
 nltk==3.6.6
 numpy==1.22.0
-requests==2.20.0
+requests==2.31.0
 spacy==2.1.3
